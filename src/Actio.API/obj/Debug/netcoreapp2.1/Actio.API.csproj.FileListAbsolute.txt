@@ -1,0 +1,17 @@
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.API\obj\Debug\netcoreapp2.1\Actio.API.csprojAssemblyReference.cache
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.API\obj\Debug\netcoreapp2.1\Actio.API.csproj.CoreCompileInputs.cache
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.API\obj\Debug\netcoreapp2.1\Actio.API.RazorAssemblyInfo.cache
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.API\obj\Debug\netcoreapp2.1\Actio.API.RazorAssemblyInfo.cs
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.API\obj\Debug\netcoreapp2.1\Actio.API.AssemblyInfoInputs.cache
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.API\obj\Debug\netcoreapp2.1\Actio.API.AssemblyInfo.cs
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.API\bin\Debug\netcoreapp2.1\Actio.API.deps.json
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.API\bin\Debug\netcoreapp2.1\Actio.API.runtimeconfig.json
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.API\bin\Debug\netcoreapp2.1\Actio.API.runtimeconfig.dev.json
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.API\bin\Debug\netcoreapp2.1\Actio.API.dll
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.API\bin\Debug\netcoreapp2.1\Actio.API.pdb
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.API\bin\Debug\netcoreapp2.1\Actio.Common.dll
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.API\bin\Debug\netcoreapp2.1\Actio.Common.pdb
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.API\obj\Debug\netcoreapp2.1\Actio.API.RazorTargetAssemblyInfo.cache
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.API\obj\Debug\netcoreapp2.1\Actio.API.csproj.CopyComplete
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.API\obj\Debug\netcoreapp2.1\Actio.API.dll
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.API\obj\Debug\netcoreapp2.1\Actio.API.pdb

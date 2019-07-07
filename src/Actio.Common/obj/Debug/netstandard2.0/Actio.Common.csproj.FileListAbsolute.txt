@@ -1,0 +1,9 @@
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Common\bin\Debug\netstandard2.0\Actio.Common.deps.json
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Common\bin\Debug\netstandard2.0\Actio.Common.dll
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Common\bin\Debug\netstandard2.0\Actio.Common.pdb
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.csprojAssemblyReference.cache
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.csproj.CoreCompileInputs.cache
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.AssemblyInfoInputs.cache
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.AssemblyInfo.cs
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.dll
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.pdb

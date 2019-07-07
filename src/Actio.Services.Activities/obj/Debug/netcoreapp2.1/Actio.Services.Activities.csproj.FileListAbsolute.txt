@@ -1,0 +1,17 @@
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.1\Actio.Services.Activities.csprojAssemblyReference.cache
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.1\Actio.Services.Activities.csproj.CoreCompileInputs.cache
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.1\Actio.Services.Activities.RazorAssemblyInfo.cache
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.1\Actio.Services.Activities.RazorAssemblyInfo.cs
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.1\Actio.Services.Activities.AssemblyInfoInputs.cache
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.1\Actio.Services.Activities.AssemblyInfo.cs
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Activities\bin\Debug\netcoreapp2.1\Actio.Services.Activities.deps.json
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Activities\bin\Debug\netcoreapp2.1\Actio.Services.Activities.runtimeconfig.json
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Activities\bin\Debug\netcoreapp2.1\Actio.Services.Activities.runtimeconfig.dev.json
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Activities\bin\Debug\netcoreapp2.1\Actio.Services.Activities.dll
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Activities\bin\Debug\netcoreapp2.1\Actio.Services.Activities.pdb
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Activities\bin\Debug\netcoreapp2.1\Actio.Common.dll
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Activities\bin\Debug\netcoreapp2.1\Actio.Common.pdb
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.1\Actio.Services.Activities.RazorTargetAssemblyInfo.cache
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.1\Actio.Services.Activities.csproj.CopyComplete
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.1\Actio.Services.Activities.dll
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Activities\obj\Debug\netcoreapp2.1\Actio.Services.Activities.pdb

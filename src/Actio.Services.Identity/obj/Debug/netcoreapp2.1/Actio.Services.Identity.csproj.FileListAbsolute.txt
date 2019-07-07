@@ -1,0 +1,17 @@
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.csprojAssemblyReference.cache
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.csproj.CoreCompileInputs.cache
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.RazorAssemblyInfo.cache
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.RazorAssemblyInfo.cs
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.AssemblyInfoInputs.cache
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.AssemblyInfo.cs
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Identity\bin\Debug\netcoreapp2.1\Actio.Services.Identity.deps.json
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Identity\bin\Debug\netcoreapp2.1\Actio.Services.Identity.runtimeconfig.json
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Identity\bin\Debug\netcoreapp2.1\Actio.Services.Identity.runtimeconfig.dev.json
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Identity\bin\Debug\netcoreapp2.1\Actio.Services.Identity.dll
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Identity\bin\Debug\netcoreapp2.1\Actio.Services.Identity.pdb
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Identity\bin\Debug\netcoreapp2.1\Actio.Common.dll
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Identity\bin\Debug\netcoreapp2.1\Actio.Common.pdb
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.RazorTargetAssemblyInfo.cache
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.csproj.CopyComplete
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.dll
+K:\Studies\2019\DotNetCoreMicroservices\src\Actio.Services.Identity\obj\Debug\netcoreapp2.1\Actio.Services.Identity.pdb
