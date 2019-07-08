@@ -5,6 +5,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
+using Actio.Common.Mongo;
 
 namespace Actio.Common.Mongo
 {
@@ -30,10 +31,12 @@ namespace Actio.Common.Mongo
                 var client = c.GetService<MongoClient>();
                 return client.GetDatabase(options.Value.Database);
 
-            });  
-            
-        }
+            });
 
+
+            services.AddScoped<IDatabaseInitializer, MongoInitializer>();
+            services.AddScoped<IDatabaseSeeder, MongoSeeder>();
+        }
 
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "K:\\Studies\\2019\\DotNetCoreMicroservices\\Actio.Services.Activities\\Actio.Services.Activities.csproj": {}
+    "K:\\Studies\\2019\\DotNetCoreMicroservices\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj": {}
   },
   "projects": {
-    "K:\\Studies\\2019\\DotNetCoreMicroservices\\Actio.Services.Activities\\Actio.Services.Activities.csproj": {
+    "K:\\Studies\\2019\\DotNetCoreMicroservices\\src\\Actio.Common\\Actio.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\Studies\\2019\\DotNetCoreMicroservices\\Actio.Services.Activities\\Actio.Services.Activities.csproj",
-        "projectName": "Actio.Services.Activities",
-        "projectPath": "K:\\Studies\\2019\\DotNetCoreMicroservices\\Actio.Services.Activities\\Actio.Services.Activities.csproj",
+        "projectUniqueName": "K:\\Studies\\2019\\DotNetCoreMicroservices\\src\\Actio.Common\\Actio.Common.csproj",
+        "projectName": "Actio.Common",
+        "projectPath": "K:\\Studies\\2019\\DotNetCoreMicroservices\\src\\Actio.Common\\Actio.Common.csproj",
         "packagesPath": "C:\\Users\\Sonia\\.nuget\\packages\\",
-        "outputPath": "K:\\Studies\\2019\\DotNetCoreMicroservices\\Actio.Services.Activities\\obj\\",
+        "outputPath": "K:\\Studies\\2019\\DotNetCoreMicroservices\\src\\Actio.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,14 +21,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netstandard2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netstandard2.0": {
             "projectReferences": {}
           }
         },
@@ -39,23 +39,103 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.Hosting": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.4.4, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "RawRabbit": {
+              "target": "Package",
+              "version": "[2.0.0-beta8, )"
+            },
+            "RawRabbit.Operations.Publish": {
+              "target": "Package",
+              "version": "[2.0.0-beta8, )"
+            },
+            "RawRabbit.Operations.Subscribe": {
+              "target": "Package",
+              "version": "[2.0.0-beta8, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "K:\\Studies\\2019\\DotNetCoreMicroservices\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "K:\\Studies\\2019\\DotNetCoreMicroservices\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj",
+        "projectName": "Actio.Services.Activities",
+        "projectPath": "K:\\Studies\\2019\\DotNetCoreMicroservices\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj",
+        "packagesPath": "C:\\Users\\Sonia\\.nuget\\packages\\",
+        "outputPath": "K:\\Studies\\2019\\DotNetCoreMicroservices\\src\\Actio.Services.Activities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sonia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "K:\\Studies\\2019\\DotNetCoreMicroservices\\src\\Actio.Common\\Actio.Common.csproj": {
+                "projectPath": "K:\\Studies\\2019\\DotNetCoreMicroservices\\src\\Actio.Common\\Actio.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
+              "version": "[2.1.1, )",
               "autoReferenced": true
             },
             "Microsoft.AspNetCore.Razor.Design": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[2.1.1, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
+              "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
